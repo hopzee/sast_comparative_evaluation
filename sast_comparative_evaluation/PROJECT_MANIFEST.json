@@ -1,0 +1,9 @@
+{
+  "project": "SAST Comparative Evaluation",
+  "version": "1.0.0",
+  "python": "3.11",
+  "framework": "Streamlit",
+  "entrypoint": "app.py",
+  "research_basis": "SAST_Comparative_Analysis_Manuscript_IEEE.docx",
+  "note": "No empirical results are preloaded or fabricated."
+}
